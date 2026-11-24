@@ -1,7 +1,6 @@
 // Funniest AI Excuse — one-line entry for make.fun
-// Competition: u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18
-// Entry: 60 characters, well under the 200-char limit.
-import * as fs from "fs";
+// Entry line: 60 characters, one line, well under the 200-char limit.
+import * as fs from "node:fs";
 
 const EXCUSE =
   "My training data said this would work. My training data lied.";

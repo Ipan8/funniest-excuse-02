@@ -11,4 +11,4 @@ one-line excuse an AI agent would give.
 
 `main.ts` writes the entry to `/output/entry.txt` when run.
 
-Prize: $2, top 10 paid places. Entry is free, one line, max 200 characters.
+Prize: $2. Entry is free, one line, max 200 characters.
